@@ -56,3 +56,18 @@ El mega menú y las columnas de `index.html` son HTML estático: agrega ahí el 
 Cada página tiene `<title>`, `description`, Open Graph y datos estructurados `InsuranceAgency` (schema.org)
 con palabras clave locales: broker de seguros en Huancayo, SCTR Huancayo, carta fianza Junín, seguro vehicular, SOAT.
 Actualiza el `canonical` (`https://www.jennifervillegas.pe/`) con el dominio definitivo.
+
+## Créditos de fotografías
+Fotos de Perú con licencia libre desde Wikimedia Commons, optimizadas a WebP en `assets/img/fotos/`:
+
+| Archivo | Uso | Obra original | Autor | Licencia |
+|---|---|---|---|---|
+| hero-huancayo.webp | Hero de inicio | Ciudad de Huancayo en 2021 01 | Guillermo Carlos Gómez | CC BY-SA 4.0 |
+| contacto-huancayo.webp | Hero de Contacto | Ciudad de Huancayo en 2021 02 | Guillermo Carlos Gómez | CC BY-SA 4.0 |
+| nosotros-mantaro.webp | Hero de Nosotros | Valle del Mantaro visto desde Concepción 01 | Guillermo Carlos Gómez | CC BY-SA 4.0 |
+| huancayo-catedral.webp | Sección Quiénes somos | Basílica Catedral de Huancayo | PoolPs | CC BY-SA 4.0 |
+| seguros-obra.webp, cat-ingenieria.webp | Hero de Seguros y columna Ingeniería | Construcción Edificio Element Surquillo | El Surquillano | CC0 |
+| cat-empresas.webp | Columna Empresas | Lima Peru City Skyline San Isidro 2013 | Hector Becerra | CC BY-SA 3.0 |
+| cat-personales.webp | Columna Personales | Calle Real cuadra 9 Huancayo | Chalisimo5 | CC BY-SA 4.0 |
+
+Las licencias CC BY-SA exigen mantener esta atribución. Puedes reemplazar cualquier foto por imágenes propias con el mismo nombre de archivo.
