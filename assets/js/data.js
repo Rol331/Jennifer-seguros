@@ -6,12 +6,12 @@
 window.SITE = {
   brand: 'Jennifer Villegas · Broker de Seguros',
   // Número en formato internacional sin "+" ni espacios (Perú = 51)
-  whatsapp: '51999999999',
-  whatsappDisplay: '+51 999 999 999',
+  whatsapp: '51938221516',
+  whatsappDisplay: '+51 938 221 516',
   waMessage: 'Hola, quisiera cotizar un seguro con Jennifer Villegas Broker',
-  email: 'contacto@jennifervillegas.pe',
-  city: 'Huancayo, Junín, Perú',
-  hours: 'Lunes a Viernes de 8:30 AM a 6:30 PM · Sábados de 9:00 AM a 1:00 PM',
+  email: 'comercial@jvrbroker.com',
+  city: 'Lima y Huancayo, Perú',
+  hours: 'Lunes a Viernes de 8:30 AM a 6:30 PM',
   // Endpoint opcional para envío real de correo (Formspree, Getform, backend propio…)
   // Ejemplo: 'https://formspree.io/f/xxxxxxxx'. Si queda vacío se usa mailto + WhatsApp.
   formEndpoint: ''
